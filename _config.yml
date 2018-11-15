@@ -4,9 +4,9 @@
 # Site settings
 title: < / Nikesh Bajaj >
 description: |
-  PhD  
+  PhD:| 
   Signal Processing &  
-  Machine Learning
+  Machine Learning |
 owner: Nikesh Bajaj # or company name
 first_published: 2018 # if migrating another site, the year of your first publish
 email: n.bajaj@qmul.ac.uk
@@ -18,7 +18,7 @@ social:
   linkedin-square: https://uk.linkedin.com/in/bajajnikesh
   facebook-official: http://facebook.com/nikeshbajaj.nikb
   google-plus-square: https://plus.google.com/u/0/+NikeshBajaj
-  #email: /contact/
+  email: mailto:n.bajaj@qmul.ac.uk
   flickr: https://www.flickr.com/photos/nikeshbajaj
   instagram: https://www.instagram.com/nikeshbajaj/
   #youtube-square:
